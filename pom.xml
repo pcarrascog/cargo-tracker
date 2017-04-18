@@ -129,7 +129,7 @@
 		  <version>2.1.0</version>
 		</dependency>
 
-<!-- 
+
 		<dependency>
 		    <groupId>org.eclipse.persistence</groupId>
 		    <artifactId>org.eclipse.persistence.moxy</artifactId>
@@ -142,7 +142,7 @@
 		    <version>2.3.2</version>
 		</dependency>
 		
- -->
+ 
  		
     </dependencies>
 

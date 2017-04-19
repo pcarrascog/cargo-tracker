@@ -136,13 +136,19 @@
 		    <version>2.5.0</version>
 		</dependency>
 		
-<!-- https://mvnrepository.com/artifact/org.eclipse.persistence/org.eclipse.persistence.antlr -->
-<dependency>
-    <groupId>org.eclipse.persistence</groupId>
-    <artifactId>org.eclipse.persistence.antlr</artifactId>
-    <version>2.3.3</version>
-</dependency>
+		<!-- https://mvnrepository.com/artifact/org.eclipse.persistence/org.eclipse.persistence.antlr -->
+		<dependency>
+		    <groupId>org.eclipse.persistence</groupId>
+		    <artifactId>org.eclipse.persistence.antlr</artifactId>
+		    <version>2.3.3</version>
+		</dependency>
 				
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+		  	<artifactId>commons-lang3</artifactId>
+		  	<version>3.1</version>
+		</dependency>
+			
     </dependencies>
 
     <build>
